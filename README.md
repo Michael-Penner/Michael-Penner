@@ -11,4 +11,4 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Michael-Penner/AD-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Michael-Penner/Azure-NSG)
 - <b>VPNs<b>
-   - [Setup and Usage of ProtonVPN](https://github.com/Michael-Penner/VPN)
+   - [Setup and Usage of ProtonVPN](https://github.com/Michael-Penner/Proton-VPN/tree/main)
